@@ -1,6 +1,6 @@
 
 '''
-MADE BY MONOKAI
+MADE BY MONOKEI
 '''
 import time
 import os
@@ -18,7 +18,6 @@ except:
 init()
 os.system("title 𝗪𝗘𝗕𝗛𝗢𝗢𝗞 𝗗𝗘𝗟𝗘𝗧𝗘𝗥")
 print("Webhook Deleter")
-print(" ")
 webhook = input(" [INPUT] Enter the Webhook URL: (Example: https://discord.com/api/webhooks/.....) ")
 
 def delete():
